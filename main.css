@@ -1,0 +1,14 @@
+body{
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx6mlMC4N7Ki1HeaAFldKl2kXrdC79plhNYPncfRrjVTS1-pvG);
+  background-repeat: no-repeat;
+  background-size: 582px 751px;
+}
+canvas{
+border:1px solid;
+background: black;
+border-radius: 10px;
+margin: 127px 83px;
+}
